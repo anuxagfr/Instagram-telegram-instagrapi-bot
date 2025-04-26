@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Telegram Instagrapi Bot Banner" width="800">
+  <img src="banner.png" alt="Telegram Instagrapi Bot Banner" width="800">
 </p>
 
 # Telegram Instagrapi Bot
