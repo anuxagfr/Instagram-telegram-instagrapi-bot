@@ -24,7 +24,8 @@ Built with:
 ## Installation
 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/telegram-instagrapi-bot.git
+git clone https://github.com/your-username/telegram-instagrapi-bot.git```
+
 cd telegram-instagrapi-bot
 
 2. Install dependencies
