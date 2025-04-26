@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Telegram Instagrapi Bot Banner" width="800">
+</p>
+
 # Telegram Instagrapi Bot
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
